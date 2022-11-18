@@ -1,0 +1,33 @@
+.visited-county-list-item {
+  margin: 20px;
+  background-color: #1f1f2f;
+}
+
+.country-image {
+  height: 150px;
+}
+
+.remove-button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.remove-btn {
+  font-family: 'Roboto';
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+  cursor: pointer;
+}
+
+.country-name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #f8fafc;
+}
